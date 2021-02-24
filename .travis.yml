@@ -3,4 +3,4 @@ arch:
   - ppc64le
 language: java
 jdk:
-  - openjdk14
+  - openjdk8
